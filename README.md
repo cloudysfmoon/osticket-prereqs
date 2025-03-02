@@ -120,7 +120,7 @@ Install HeidiSQL, and connect to the session.
   
 ![20](https://github.com/user-attachments/assets/ee719447-01c5-4d1b-96bd-0878c5e7a82a)
 <p>
-Finish the setup of osTiket
+Finish the setup of osTicket
 
 ![21](https://github.com/user-attachments/assets/d20f4d2a-59da-4429-b055-406e54a0ec29)
 
