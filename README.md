@@ -117,6 +117,7 @@ Install HeidiSQL, and connect to the session.
   
 ![19](https://github.com/user-attachments/assets/83fb1fba-0b68-427f-b346-8aa6a2b8ffb3)
 <p>
+The username and password is the one that was configured when MySQL was installed. 
   
 ![20](https://github.com/user-attachments/assets/ee719447-01c5-4d1b-96bd-0878c5e7a82a)
 <p>
